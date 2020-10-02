@@ -14,18 +14,18 @@
 <br />
 ### Connect with me:
 
-[<img align="left" alt="codersaty | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/mort-adarsh)
-[<img align="left" alt="codersaty | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/mort_adarsh)
-[<img align="left" alt="codersaty | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://facebook.com/mortadarsh)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/mort_adarsh)
+[<img align="left" alt="mort_adarsh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/mort-adarsh)
+[<img align="left" alt="mort_adarsh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/mort_adarsh)
+[<img align="left" alt="mort_adarsh | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://facebook.com/mortadarsh)
+[<img align="left" alt="mort_adarsh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/mort_adarsh)
 
 <br />
 
 ### My Cp Handles:
-[<img align="left" alt="codersaty | Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />](https://www.codechef.com/users/codersati)
-[<img align="left" alt="codersaty | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />](https://codeforces.com/profile/codersaty)
-[<img align="left" alt="codersaty | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/anuranjansatyam?hr_r=1)
-[<img align="left" alt="codersaty | Hackerearth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />](https://www.hackerearth.com/@codersaty)
+[<img align="left" alt="codersaty | Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />](https://www.codechef.com/users/mort_adarsh)
+[<img align="left" alt="codersaty | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />](https://codeforces.com/profile/mort_adarsh)
+[<img align="left" alt="codersaty | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/mort_adarsh?hr_r=1)
+[<img align="left" alt="codersaty | Hackerearth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />](https://www.hackerearth.com/@mort_adarsh)
 
 <br />
 
