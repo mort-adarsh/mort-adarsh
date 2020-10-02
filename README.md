@@ -12,7 +12,7 @@
 - 🥅 2020 Goals: Get Skilled in full stack development and Competitive Programing
 <br />
 <br />
-### Connect with me:
+### Connect With ME:
 
 [<img align="left" alt="mort_adarsh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/mort-adarsh)
 [<img align="left" alt="mort_adarsh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/mort_adarsh)
