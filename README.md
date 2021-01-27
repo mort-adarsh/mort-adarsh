@@ -1,6 +1,6 @@
 ### Hi there, I'm Adarsh Srivastav - mort_adarsh 👋 👨🏽‍💻
 
-## I'm a software Engineer(pursuing), Engineering Student, Full Stack Developer (MERN), and a competitive Programmer!
+## I'm a Software Engineer(pursuing), Full Stack Developer (MERN), and a Competitive Programmer!
 <br />
 <p align="center">
 <img  alt="Profile Photo"  src="images/adarsh.png" />
