@@ -6,7 +6,7 @@
 <img  alt="Profile Photo"  src="images/adarsh.png" />
 </p>
 <br />
-- 🔭 I’m currently working on my React Project!
+- 🔭 I’m currently working on my React Project! </n>
 - 🌱 I’m currently learning Competitive Programing and Web Development
 - 👯 I’m looking to collaborate with other Web developers
 - 🥅 2020 Goals: Get Skilled in full stack development and Competitive Programing
