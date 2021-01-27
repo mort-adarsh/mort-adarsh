@@ -3,7 +3,7 @@
 ## I'm a Software Engineer(pursuing), Full Stack Developer (MERN), and a Competitive Programmer!
 <br />
 <p align="center">
-<img  alt="Profile Photo"  src="images/adarsh.png" />
+<img  alt="Profile Photo" width="160px" src="images/adarsh.png" />
 </p>
 <br />
 
