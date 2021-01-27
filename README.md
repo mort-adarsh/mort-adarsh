@@ -59,3 +59,5 @@
 <img align="left" alt="codersaty's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mort-adarsh&show_icons=true&hide_border=true" />
 
 <img align="right" alt="codersaty Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mort-adarsh&show_icons=true&hide_border=true" />
+<br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mort-adarsh" alt="mort-adarsh" /> </p>
