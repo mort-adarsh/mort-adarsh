@@ -17,8 +17,8 @@
 
 ### Connect With ME:
 
-[<img align="left" alt="mort_adarsh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/mort-adarsh)
-[<img align="left" alt="mort_adarsh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/mort_adarsh)
+[<img align="left" alt="mort_adarsh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/mort_adarsh)
+[<img align="left" alt="mort_adarsh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mort-adarsh/)
 [<img align="left" alt="mort_adarsh | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://facebook.com/mortadarsh)
 [<img align="left" alt="mort_adarsh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/mort_adarsh)
 
@@ -57,8 +57,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mort-adarsh" alt="mort-adarsh" /> </p>
 <br />
 <br />
-<img align="left" alt="codersaty's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mort-adarsh&show_icons=true&hide_border=true" />
+<img align="left" alt="mort-adarsh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mort-adarsh&show_icons=true&hide_border=true" />
 
-<img align="right" alt="codersaty Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mort-adarsh&show_icons=true&hide_border=true" />
+<img align="right" alt="mort-adarsh Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mort-adarsh&show_icons=true&hide_border=true" />
 
 
