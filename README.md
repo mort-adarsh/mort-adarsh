@@ -1,6 +1,15 @@
-## Hi there, I'm Adarsh Srivastav - mort_adarsh 👋 👨🏽‍💻
+## Hi there, I'm Adarsh Srivastav 👋 👨🏽‍💻
 
-### Senior Software Engineer | Competitive Programmer | Passionate Problem Solver
+I'm a Senior Software Engineer with 3 years of experience in developing scalable and efficient software solutions. I'm passionate about coding, problem-solving, and staying updated with the latest technologies.
+
+## 🔧 Technologies & Tools
+
+- Programming Languages: C++, C, Java, Python, JavaScript SQL
+- Technologies: Spring-Boot ( Java), Hibernate, Kafka Mockito, JUnit, Apache Velocity, MongoDB, Robot Framework JavaScript(NodeJs), HTML, CSS, Ngnix
+- Coursework: Operating Systems, Data Structures, Algorithms, Database Management System, Object Oriented Programming, Distributed System
+- Version Control: Git, GitHub
+- Dev Tools: Git, Postman, Kubernetes, Maven, VS Code, IntelliJ IDEA, Google Cloud Platform (GCP), Docker, AWS
+
 <!--
 <br />
 <p align="center">
@@ -9,7 +18,6 @@
 <br />
 -->
 
-<br />
 <br />
 
 ### Connect With Me:
