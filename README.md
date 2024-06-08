@@ -20,7 +20,15 @@ I'm a Senior Software Engineer with 3 years of experience in developing scalable
 
 <br />
 
-### Connect With Me:
+## 🌐 Connect With Me
+
+[<img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/your-linkedin-profile)
+[<img align="left" alt="Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter.png" />](https://twitter.com/your-twitter-profile)
+[<img align="left" alt="GitHub" width="30px" src="https://img.icons8.com/color/48/000000/github.png" />](https://github.com/your-github-profile)
+[<img align="left" alt="Personal Website" width="30px" src="https://img.icons8.com/color/48/000000/domain.png" />](https://your-website-url.com)
+[<img align="left" alt="Email" width="30px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />](mailto:your-email@example.com)
+
+Connect with me on various platforms and let's collaborate!
 
 [<img align="left" alt="mort_adarsh | Twitter" width="22px" style="color: white;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />](https://twitter.com/mort_adarsh)
 [<img align="left" alt="mort_adarsh | LinkedIn" width="22px" style="color: white;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />](https://www.linkedin.com/in/mort-adarsh/)
