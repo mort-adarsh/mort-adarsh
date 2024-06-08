@@ -30,9 +30,9 @@ I'm a Senior Software Engineer with 3 years of experience in developing scalable
 
 
 <br />
-
+<!--
 ### My Cp Handles:
-[<img align="left" alt="adarsh | Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />](https://www.codechef.com/users/mort_adarsh)
+CodeChef [<img align="left" alt="adarsh | Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />](https://www.codechef.com/users/mort_adarsh)
 [<img align="left" alt="adarsh | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />](https://codeforces.com/profile/mort_adarsh)
 [<img align="left" alt="adarsh | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/mort_adarsh?hr_r=1)
 [<img align="left" alt="adarsh | Hackerearth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />](https://www.hackerearth.com/@mort_adarsh)
@@ -58,7 +58,7 @@ I'm a Senior Software Engineer with 3 years of experience in developing scalable
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-
+-->
 <br />
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mort-adarsh" alt="mort-adarsh" /> </p>
