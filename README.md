@@ -1,6 +1,6 @@
-### Hi there, I'm Adarsh Srivastav - mort_adarsh 👋 👨🏽‍💻
+## Hi there, I'm Adarsh Srivastav - mort_adarsh 👋 👨🏽‍💻
 
-## Senior Software Engineer | Competitive Programmer | Passionate Problem Solver
+### Senior Software Engineer | Competitive Programmer | Passionate Problem Solver
 <!--
 <br />
 <p align="center">
@@ -12,12 +12,13 @@
 <br />
 <br />
 
-### Connect With ME:
+### Connect With Me:
 
-[<img align="left" alt="mort_adarsh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/mort_adarsh)
-[<img align="left" alt="mort_adarsh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mort-adarsh/)
-[<img align="left" alt="mort_adarsh | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://facebook.com/mortadarsh)
-[<img align="left" alt="mort_adarsh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/mort_adarsh)
+[<img align="left" alt="mort_adarsh | Twitter" width="22px" style="filter: invert(100%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />](https://twitter.com/mort_adarsh)
+[<img align="left" alt="mort_adarsh | LinkedIn" width="22px" style="filter: invert(100%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />](https://www.linkedin.com/in/mort-adarsh/)
+[<img align="left" alt="mort_adarsh | Facebook" width="22px" style="filter: invert(100%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" />](https://facebook.com/mortadarsh)
+[<img align="left" alt="mort_adarsh | Instagram" width="22px" style="filter: invert(100%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" />](https://instagram.com/mort_adarsh)
+
 
 <br />
 
