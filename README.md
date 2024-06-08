@@ -27,6 +27,8 @@ I'm a Senior Software Engineer with 3 years of experience in developing scalable
 [<img align="left" alt="mort_adarsh | Facebook" width="22px" style="color: white;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" />](https://facebook.com/mortadarsh)
 [<img align="left" alt="mort_adarsh | Instagram" width="22px" style="color: white;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" />](https://instagram.com/mort_adarsh)
 [<img align="left" alt="mort_adarsh | Email" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" />](mailto:adarshsrivastav1209@gmail.com)
+[<img align="left" alt="Email" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" style="color: #D14836;" />](mailto:your-email@example.com)
+
 
 
 
