@@ -26,6 +26,7 @@ I'm a Senior Software Engineer with 3 years of experience in developing scalable
 [<img align="left" alt="mort_adarsh | LinkedIn" width="22px" style="color: white;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />](https://www.linkedin.com/in/mort-adarsh/)
 [<img align="left" alt="mort_adarsh | Facebook" width="22px" style="color: white;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" />](https://facebook.com/mortadarsh)
 [<img align="left" alt="mort_adarsh | Instagram" width="22px" style="color: white;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" />](https://instagram.com/mort_adarsh)
+[<img align="left" alt="mort_adarsh | Email" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" />](mailto:adarshsrivastav1209@gmail.com)
 
 
 
@@ -35,7 +36,7 @@ I'm a Senior Software Engineer with 3 years of experience in developing scalable
 CodeChef [<img align="left" alt="adarsh | Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />](https://www.codechef.com/users/mort_adarsh)
 [<img align="left" alt="adarsh | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />](https://codeforces.com/profile/mort_adarsh)
 [<img align="left" alt="adarsh | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/mort_adarsh?hr_r=1)
-[<img align="left" alt="adarsh | Hackerearth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />](https://www.hackerearth.com/@mort_adarsh)
+[<img align="left" alt="adarsh | HackerEarth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />](https://www.hackerearth.com/@mort_adarsh)
 
 <br />
 
@@ -59,7 +60,7 @@ CodeChef [<img align="left" alt="adarsh | Codechef" width="22px" src="https://cd
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 -->
-<br />
+
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mort-adarsh" alt="mort-adarsh" /> </p>
 <br />
