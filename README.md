@@ -1,16 +1,13 @@
 ### Hi there, I'm Adarsh Srivastav - mort_adarsh 👋 👨🏽‍💻
 
-## I'm a Software Engineer(pursuing), Full Stack Developer (MERN), and a Competitive Programmer!
+## Senior Software Engineer | Competitive Programmer | Passionate Problem Solver
+<!--
 <br />
 <p align="center">
 <img  alt="Profile Photo" width="75%" src="images/adarsh.png" />
 </p>
 <br />
-
-- 🔭 I’m currently working on my React Project!.
-- 🌱 I’m currently learning Competitive Programing and Web Development.
-- 👯 I’m looking to collaborate with other Web developers.
-- 🥅 2021 Goals: Get more skilled in full stack development and Competitive Programing.
+-->
 
 <br />
 <br />
