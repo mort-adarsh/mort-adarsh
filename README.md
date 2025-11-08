@@ -1,6 +1,6 @@
 ## Hi there, I'm Adarsh Srivastav 👋 👨🏽‍💻
 
-I'm a Senior Software Engineer with 3 years of experience in developing scalable and efficient software solutions. I'm passionate about coding, problem-solving, and staying updated with the latest technologies.
+I'm a Senior Software Engineer with 4 years of experience in developing scalable and efficient software solutions. I'm passionate about coding, problem-solving, and staying updated with the latest technologies.
 
 ## 🔧 Technologies & Tools
 
@@ -69,5 +69,6 @@ CodeChef [<img align="left" alt="adarsh | Codechef" width="22px" src="https://cd
 <img align="left" alt="mort-adarsh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mort-adarsh&show_icons=true&hide_border=true" />
 
 <img align="right" alt="mort-adarsh Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mort-adarsh&show_icons=true&hide_border=true" />
+
 
 
